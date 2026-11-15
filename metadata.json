@@ -1,0 +1,6 @@
+{
+  "name": "Surya Call Taxi Tiruppur",
+  "description": "24 Hours Taxi Service in Tiruppur, Tamil Nadu. Safe journeys for local rides, outstation trips, one way & round trips, and airport pickup & drop.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
